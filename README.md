@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working Virtual Card Project **Meta Cards**
 
-- 🌱 I’m currently learning **Advance DSA Concept with Web Tecnology**
+- 🌱 I’m currently learning **Advance DSA Concept with Web Technology**
 
 - 💬 Ask me about **React,Express,DSA**
 
